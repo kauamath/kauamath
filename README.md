@@ -1,4 +1,4 @@
-### Hi there 😎
+### Olá! Bem-vindos ao meu perfil.😎
 
 👨‍💻Eu sou o Kauã Medeiros, sou um <b> Programador Front End </b> , atualmente estou aprendendo e criando projetos com: <br><br>
 
