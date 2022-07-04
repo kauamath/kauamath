@@ -1,5 +1,7 @@
 ### Olá! Bem-vindos ao meu perfil.😎
 
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQFb6KjNhr80QA/profile-displaybackgroundimage-shrink_200_800/0/1656943162489?e=1662595200&v=beta&t=UrcRtyajZv5Fz-YVyiJLK8Pkz0CaxxqiXYmCtSUFPhQ"/>
+
 👨‍💻Eu sou o Kauã Medeiros, sou um <b> Programador Front End </b> , atualmente estou aprendendo e criando projetos com: <br><br>
 
 
