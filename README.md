@@ -1,12 +1,8 @@
-### Olá! Bem-vindos ao meu perfil.😎
+### Olá! sou o Kauã Medeiros👋
 
-<img width="800px" src="https://media-exp1.licdn.com/dms/image/C4E16AQH6ZLMsxqSESA/profile-displaybackgroundimage-shrink_200_800/0/1656968882199?e=1662595200&v=beta&t=086z1HoIa0UQ7SyuUTu6N7C6S23s9y8tOr7IUX4qBCs"/>
+<img width="700px" src="https://media-exp1.licdn.com/dms/image/C4E16AQH6ZLMsxqSESA/profile-displaybackgroundimage-shrink_200_800/0/1656968882199?e=1662595200&v=beta&t=086z1HoIa0UQ7SyuUTu6N7C6S23s9y8tOr7IUX4qBCs"/>
 
-- 👨‍💻Eu sou o Kauã Medeiros, sou um <b> Programador Front End </b> apaixonado pela Tecnologia<br> 
-e disposto a ajuda-lo a resolver e criar projetos para desenvolvimento web.<br>
-
-
-<b>atualmente estou aprendendo e criando projetos com:<b> <br>
+- 👨‍💻💻Sou um <b> Programador Front End </b> , atualmente estou aprendendo e criando projetos com: <br><br>
 
  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
   
