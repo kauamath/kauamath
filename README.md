@@ -1,6 +1,6 @@
 ### Olá! sou o Kauã Medeiros👋
 
-<img width="700px" src="https://media-exp1.licdn.com/dms/image/C4E16AQH6ZLMsxqSESA/profile-displaybackgroundimage-shrink_200_800/0/1656968882199?e=1662595200&v=beta&t=086z1HoIa0UQ7SyuUTu6N7C6S23s9y8tOr7IUX4qBCs"/>
+<img width="700px" src="https://media-exp1.licdn.com/dms/image/C4E16AQG3vFE-SygfMA/profile-displaybackgroundimage-shrink_200_800/0/1656968940013?e=1662595200&v=beta&t=8NCIeH2QsMVONSmwjQ3uG_cI26smGi8qoZUPfaM3KSo"/>
 
 - 👨‍💻💻Sou um <b> Programador Front End </b> , atualmente estou aprendendo e criando projetos com: <br><br>
 
