@@ -15,14 +15,13 @@
 |[![Kaua Medeiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauamath)](https://github.com/anuraghazra/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauamath)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Onde você pode me contatar:
-
 <p>
-<a href="https://www.instagram.com/k.matheus/">
-<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kauã-medeiros-dev/">
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+ <a href="https://www.instagram.com/k.matheus/"target="_blank">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+ </a> 
+ <a href="https://www.linkedin.com/in/kauã-medeiros-dev/"target="_blank">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+ </a>
 </p>
-<br />
-<br />
+<br>
+
