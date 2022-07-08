@@ -1,7 +1,5 @@
 ### Olá! sou o Kauã Medeiros👋
 
-<img width="700px" src="https://media-exp1.licdn.com/dms/image/C4E16AQG3vFE-SygfMA/profile-displaybackgroundimage-shrink_200_800/0/1656968940013?e=1662595200&v=beta&t=8NCIeH2QsMVONSmwjQ3uG_cI26smGi8qoZUPfaM3KSo"/>
-
 - 👨‍💻💻Sou um <b> Programador Front End </b> , atualmente estou aprendendo e criando projetos com: <br>
 
  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
