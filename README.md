@@ -1,7 +1,7 @@
 ### Hi there 😎
 
 Welcome to my profile. 
-My name is Kauã, I'm a Front-end developer, and I'm specializing in:
+My name is <strong> Kauã, I'm a Front-end developer,</strong> and I'm specializing in:
 
  <img align="center" alt="kaua-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><img align="center" alt="kaua-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><img align="center" alt="kaua-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><img align="center" alt="kaua-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   
