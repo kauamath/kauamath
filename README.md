@@ -29,9 +29,9 @@
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamath&layout=compact&theme=merko"></img>
 
 
-<br>
 
-### Connect with me:
+##  Connect with me
+
 <div align="center">
   <p>
 <a href="https://www.linkedin.com/in/kauã-medeiros-dev/"> 
