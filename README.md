@@ -9,7 +9,7 @@
 </p>
  
 - 📚 Studying Front End Development in <a href="https://rodolfomori.com.br/devclub"> DevClub </a>
-- 🚀 Improving my knowledge of <strong>JavaScript and ReactJS</strong>
+- 🚀 Improving my knowledge of <strong>ReactJS and NodeJS</strong>
 - 📫 My email: contato.kauamedeiros@gmail.com
 
 <br>
