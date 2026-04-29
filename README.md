@@ -20,12 +20,6 @@
   
 <br>
 
-## 📈 Statistics
-
-<div align="center">
-<img align="center" height="150px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=kauamath&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kauamath" /><img align="center" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kauamath&show_icons=true&locale=en&theme=dracula" alt="kauamath"/>
-</div>
-
 
 ## 📧 Connect with me
 
