@@ -8,9 +8,7 @@
   </em>
 </p>
  
-- 📚 Studying Front End Development in <a href="https://rodolfomori.com.br/devclub"> DevClub </a>
 - 🚀 Improving my knowledge of <strong>React</strong> and <strong>Node</strong>
-- 📫 My email: contato.kauamedeiros@gmail.com
 
 <br>
 
